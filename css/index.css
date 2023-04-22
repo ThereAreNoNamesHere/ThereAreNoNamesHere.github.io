@@ -13,7 +13,7 @@
 
 body {
     margin:0px;
-    background:url(https://go.fuyeor.com/ran/pic);
+    background:url(https://go.fuyeor.com/ran/pic) cover;
 }
 
 .logo {
