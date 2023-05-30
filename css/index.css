@@ -17,7 +17,7 @@
 
 body {
     margin:0px;
-    background-image:bg.php
+    background:url(bg.php);
 }
 
 .logo {
