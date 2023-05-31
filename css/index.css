@@ -33,3 +33,9 @@ body {
     margin-top:20px;
     margin-bottom:20px;
 }
+
+h1{
+    position:fixed;
+    left:700px;
+    top:30px;
+}
